@@ -1,0 +1,1 @@
+fswebcam /home/pi/Downloads/ControlingArduino/imagename.jpg --no-banner

@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.clickable {
+  cursor: pointer;
+}
+.Col_profile {
+  width: fit-content;
+  height: fit-content;
+  /* height: 300px; */
+}
+.profile_image_theme {
+  width: 300px; /* width of container */
+  height: 300px; /* height of container */
+  object-fit: cover;
+  object-position: 20% 10%; /* try 20px 10px */
+}

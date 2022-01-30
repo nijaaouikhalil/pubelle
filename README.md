@@ -1,39 +1,39 @@
-# pubelle
+# pubelle <br><br><br>
 
 # Youtube Video:
-https://www.youtube.com/watch?v=_-vLRq0EABw&ab_channel=TechBubble
+https://www.youtube.com/watch?v=_-vLRq0EABw&ab_channel=TechBubble<br><br>
 
 
 # Website Live Demo: 
 
-https://pubelle.herokuapp.com
+https://pubelle.herokuapp.com<br><br>
 
 
 
-## Built with
+## Built with<br>
 
 #### Website:
 - ReactJs with bootstrap
 - Redux for state management
-- Django for the backend 
+- Django for the backend <br>
 
 #### Hardware:
 - Arduino Nano 33 BLE
 - Raspberry Pi 4 4gb
-- Other Hardware and 3D printed parts
+- Other Hardware and 3D printed parts<br>
 
-## Features
+## Features<br><br>
 
 #### Website:
 - Authetification
-- Points system
+- Points system<br>
 
 #### Hardware:
 - OnBoard Image Processing to Classify the trash
 - Ongoing two ways communication between the RaspberryPi and the Arduino Nano
-- Trash Classification
+- Trash Classification<br><br>
 
-## Download & Setup Instructions
+## Download & Setup Instructions<br>
 
 - Clone project: git clone https://github.com/nijaaouikhalil/pubelle.git
 - cd pubelle
